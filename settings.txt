@@ -1,0 +1,5 @@
+org,Bagillt Community Library
+MemberCards,y
+BtnColours,990000
+dbpath,
+backuppath,
